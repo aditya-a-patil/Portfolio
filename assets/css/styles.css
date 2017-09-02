@@ -81,7 +81,7 @@ p {
   background: #263647;
   position: absolute;
   left: 0;
-  width: 255px;
+  width: 275px;
   height: 100%;
   min-height: 800px;
   color: #fff;
@@ -108,7 +108,7 @@ p {
 }
 .sidebar-wrapper .tagline {
   color: rgba(255, 255, 255, 0.6);
-  font-size: 16px;
+  font-size: 14px;
   font-weight: 400;
   margin-top: 0;
   margin-bottom: 0;
@@ -128,7 +128,7 @@ p {
   margin-bottom: 0;
 }
 .sidebar-wrapper .contact-list .email .fa {
-  font-size: 14px;
+  font-size: 10px;
 }
 
 .sidebar-wrapper .contact-list .linkedin .fa{
@@ -137,7 +137,7 @@ p {
 }
 
 .sidebar-wrapper .contact-list .linkedin a{
-  font-size: 12px;
+  font-size: 13.5px;
 }
 
 .sidebar-wrapper .container-block {
