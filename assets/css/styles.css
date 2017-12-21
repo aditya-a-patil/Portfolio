@@ -418,9 +418,9 @@ p {
   .languages-container {
     display: none;
   }/* hide languages on small screen */
-  .interests-container {
+  .feed-container {
     display: none;
-  }/* hide interests on small screen */
+  }/* hide twitter feed on small screen */
 }
 /* Small devices (tablets, 768px and up) */
 /* Medium devices (desktops, 992px and up) */
